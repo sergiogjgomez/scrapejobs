@@ -1,0 +1,11 @@
+/dev
+/documents
+/venv
+/output
+
+**/__pycache__
+**/documents
+
+**.csv
+**.json
+**.parquet
